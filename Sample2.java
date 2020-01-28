@@ -34,11 +34,11 @@ public static void main(String args[])
 	}
 	if(map1.equals(map2))
 	{
-		System.out.println("Anagram");
+		System.out.println("The two words are anagrams");
 	}
 	else
 	{
-		System.out.println("Not an anagram");
+		System.out.println("The two words are not anagrams");
 	}
 	
 	sc.close();	
